@@ -31,7 +31,6 @@ Here are the workflow for contributors:
 2. Clone fork to local repository
 3. Create a new branch and work on it
 4. Keep your branch in sync
-5. Commit your changes (make sure your commit message concise)
 6. Push your commits to your forked repository
 7. Create a pull request
 
