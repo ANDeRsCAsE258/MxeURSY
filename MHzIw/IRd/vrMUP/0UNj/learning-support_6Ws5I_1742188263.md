@@ -12,7 +12,6 @@ Convert Paths to str before giving to torchaudio due to [some compat issue with 
 Installing is another way to solve the issue.
 
 Fix bug in convert audio that would not work properly with shapes [*, C, T].
-
 Fixing incorrect order of operations when evaluating the number of frames (thanks @chenjiasheng  for the report).
 
 ## [0.1.1] - 2022-10-25
